@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ground
+  - cherry
   layers:
   - Default
   - TransparentFX
@@ -11,7 +13,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -38,6 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 3706237845
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: tilmap
+    uniqueID: 1799420763
+    locked: 0
+  - name: tiren
+    uniqueID: 744919451
     locked: 0
